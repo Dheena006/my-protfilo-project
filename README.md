@@ -13,7 +13,7 @@ The purpose of this project is to showcase my skills, projects, and provide a wa
 
 The **Home Page** introduces who I am and what I do. It includes:
 
-- A welcoming **intro section** with my name and title (e.g., "Hi, I'm John Doe – Web Developer").
+- A welcoming **intro section** with my name and title (e.g., "Hi, I'm Dheena R – Web Developer").
 - A short **"About Me"** section describing my background and passion for development.
 - A **skills section** listing the technologies I work with (e.g., HTML, CSS, JavaScript).
 - A **project showcase** with images and links to live demos or GitHub repositories.
@@ -39,8 +39,7 @@ The **Contact Page** provides a way for visitors to get in touch. It includes:
 - HTML5
 - CSS3
 - JavaScript (or React, if applicable)
-- Responsive Design with Flexbox/Grid
-- [Optional] EmailJS / Netlify Forms for handling contact form submissions
+
 
 ---
 
