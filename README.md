@@ -43,6 +43,6 @@ The **Contact Page** provides a way for visitors to get in touch. It includes:
 
 ---
 
-## 📂 Folder Structure
+
 
 
