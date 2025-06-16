@@ -9,11 +9,6 @@ This is a simple 2-page portfolio website built using **HTML** and **CSS**. It i
 > Ideal for beginners learning frontend development or showcasing personal projects.
 
 ---
-
-## 📂 Project Structure
-
----
-
 ## 📄 Pages Overview
 
 ### 🏠 Home Page (`index.html`)
