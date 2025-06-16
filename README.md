@@ -1,13 +1,3 @@
-portfolio-website/
-│
-├── index.html              # Home page
-├── contact.html            # Contact page
-├── css/
-│   └── style.css           # Main stylesheet
-├── images/
-│   └── profile.jpg         # Example image
-├── README.md               # Project documentation
-└── LICENSE                 # (Optional) License file
 
 # 🌐 Portfolio Website (HTML & CSS)
 
